@@ -1,0 +1,2 @@
+add_executable(context_switch context_switch.cpp)
+add_executable(measure_context_switch measure_context_switch.cpp)

@@ -1,0 +1,2 @@
+add_executable(process_state_simulation process_state_simulation.cpp)
+target_link_libraries(process_state_simulation PRIVATE pthread)

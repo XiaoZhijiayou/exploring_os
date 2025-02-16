@@ -1,0 +1,4 @@
+add_executable(fcfs_scheduling fcfs_scheduling.cpp)
+add_executable(sjf_scheduling sjf_scheduling.cpp)
+add_executable(priority_scheduling priority_scheduling.cpp)
+add_executable(round_robin_sheduling round_robin_sheduling.cpp)

@@ -1,0 +1,3 @@
+add_executable(process_create process_create.cpp)
+add_executable(process_exec process_exec.cpp)
+add_executable(process_debugger process_debugger.cpp)
