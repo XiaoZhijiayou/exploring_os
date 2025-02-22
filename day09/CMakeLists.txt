@@ -1,0 +1,13 @@
+add_executable(show_difference_of_create show_difference_of_create.cpp)
+add_executable(show_memory_layout show_memory_layout.cpp)
+add_executable(cpu_utilization_process cpu_utilization_process.cpp)
+add_executable(cpu_utilization_thread cpu_utilization_thread.cpp)
+add_executable(commucation_process commucation_process.cpp)
+add_executable(commucation_with_shared_process commucation_with_shared_utilization_process.cpp)
+add_executable(commucation_thread commucation_thread.cpp)
+add_executable(same_task_process_and_thread same_task_process_and_thread.cpp)
+add_executable(secure_process secure_process.cpp)
+add_executable(demonstrate_shared_resource demonstrate_shared_resource.cpp)
+add_executable(real_time_c_p real_time_c_p.cpp)
+
+
