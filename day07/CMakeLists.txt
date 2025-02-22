@@ -1,0 +1,3 @@
+add_executable(Create_Manage_thread Create_Manage_thread.cpp)
+add_executable(Synchronization_thread Synchronization_thread.cpp) ##线程之间的同步
+

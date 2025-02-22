@@ -41,7 +41,6 @@ int main() {
     p2.context.uc_link = NULL;
     p2.id = 2;
     makecontext(&p2.context, function2, 0);
-
     // Perform context switches
     printf("Starting context switching demonstration\n");
     context_switch(&p2, &p1);
